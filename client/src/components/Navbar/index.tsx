@@ -1,7 +1,7 @@
 export const Navbar = () =>{
     return (
         <>
-            Navbar sdfsdfsd Page
+            Navbar sdfsdfsd sfsdf Page
         </>
     )
 }
