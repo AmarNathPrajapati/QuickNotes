@@ -20,11 +20,16 @@ app.use(express.json())
 app.use(helmet())
 app.use(sanitizeMiddleware)
 app.use(hpp())
+
+
 const corsOptions = {
-    origin:"http://localhost:3000",
-    Credential:true
-}
+    origin: "http://localhost:5173",  // Frontend URL
+    methods: ["GET", "POST", "PUT", "DELETE"],  // Allowed methods
+    allowedHeaders: ["Content-Type", "Authorization"],  // Allowed headers
+    credentials: true,  // Allow cookies and authentication
+  };
 app.use(cors(corsOptions))
+
 app.use(fileUpload({
     useTempFiles:true,
     tempFileDir:'/tmp/'
