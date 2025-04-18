@@ -1,7 +1,7 @@
 export const Sidebar = () =>{
     return (
         <>
-            Sidebar pages
+            Sidebar sfsdfsdf pages
         </>
     )
 }
