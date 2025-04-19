@@ -7,3 +7,19 @@ asdfdasfasdff
 
 asdfdasf
 asdfdasf
+
+sdfs
+fs
+
+sdfsfsddf
+
+sdfsfsddf
+
+sdfsf
+sdfsfsdff
+sdfsfsddfsdf
+sdf
+sdfsfsddfsdfsdf
+
+agar stage par check karoge toh (staging vs previous commit)
+modify karane ke baad click karoge (stating vs working directory)
