@@ -4,3 +4,4 @@ dist
 *.log
 .cache/
 client/frontend_flow.txt
+testing.txt
