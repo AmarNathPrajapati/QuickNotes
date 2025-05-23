@@ -1,4 +1,0 @@
-step 1: paytm implemented
-step 2: googlePay implemented
-step 3: phonePay implemented
-finally payment implmentation completed
